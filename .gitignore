@@ -363,3 +363,7 @@ ASALocalRun/
 *.exe
 *.out
 *.app
+
+# This project specific
+Intermidiate/
+Lib/
